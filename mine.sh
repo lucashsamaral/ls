@@ -1,1 +1,1 @@
-./hellminer -c stratum+ssl://na.luckpool.net:3958 -u ADDRESS.WORKER -p x --cpu 1
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RJsJNKU5vUHQQqx5rLmFqUQCYn64bF9Phm.xiaomi13 -p x --cpu 8
